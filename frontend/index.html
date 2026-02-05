@@ -1,0 +1,48 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Cough Detector</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="topbar">
+        <div>
+         
+          <h1>Cough Detector</h1>
+          
+        </div>
+        
+      </header>
+
+      <main class="layout">
+        <section class="card primary">
+          <div class="card-head">
+            <h2>Recorder</h2>
+            <span class="status" id="status">Idle</span>
+          </div>
+          <div class="controls">
+            <button id="recordBtn" class="btn primary">Record</button>
+            <button id="stopBtn" class="btn" disabled>Stop</button>
+            <button id="analyzeBtn" class="btn ghost" disabled>Analyze</button>
+            <span id="timer" class="timer">00:00</span>
+          </div>
+          <div class="meter">
+            <div id="meterFill" class="meter-fill"></div>
+          </div>
+          <canvas id="waveCanvas" width="900" height="200"></canvas>
+        </section>
+
+        <section class="card">
+          <h2>Result</h2>
+          <div id="result" class="result">Waiting for audio.</div>
+          
+        </section>
+      </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

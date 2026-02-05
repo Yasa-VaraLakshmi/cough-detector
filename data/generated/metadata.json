@@ -1,0 +1,3002 @@
+[
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_000.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_001.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_002.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_003.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_004.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_005.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_006.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_007.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_008.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_009.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_010.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_011.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_012.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_013.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_014.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_015.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_016.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_017.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_018.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_019.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_020.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_021.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_022.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_023.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_024.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_025.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_026.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_027.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_028.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_029.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_030.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_031.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_032.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_033.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_034.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_035.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_036.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_037.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_038.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_039.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_040.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_041.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_042.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_043.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_044.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_dry_045.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_046.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_047.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wheeze_048.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_cough_wet_049.wav",
+    "speaker": "speaker1",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_000.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_001.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_002.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_003.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_004.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_005.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_006.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_007.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_008.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_009.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_010.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_011.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_012.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_013.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_014.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_015.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_016.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_017.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_018.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_019.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_020.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_021.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_022.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_023.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_024.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_025.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_026.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_027.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_028.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_029.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_030.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_031.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_032.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_033.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_034.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_035.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_036.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_037.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_038.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_039.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_040.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_041.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_042.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_043.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_044.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_045.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_046.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_047.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_048.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker1_non_cough_none_049.wav",
+    "speaker": "speaker1",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_000.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_001.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_002.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_003.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_004.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_005.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_006.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_007.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_008.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_009.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_010.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_011.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_012.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_013.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_014.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_015.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_016.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_017.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_018.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_019.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_020.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_021.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_022.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_023.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_024.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_025.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_026.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_027.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_028.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_029.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_030.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_031.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_032.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_033.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_034.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_035.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_036.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_037.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_038.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_039.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_040.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_041.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_042.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_043.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_044.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_045.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_046.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wet_047.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_wheeze_048.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_cough_dry_049.wav",
+    "speaker": "speaker2",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_000.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_001.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_002.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_003.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_004.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_005.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_006.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_007.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_008.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_009.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_010.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_011.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_012.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_013.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_014.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_015.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_016.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_017.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_018.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_019.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_020.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_021.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_022.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_023.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_024.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_025.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_026.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_027.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_028.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_029.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_030.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_031.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_032.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_033.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_034.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_035.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_036.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_037.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_038.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_039.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_040.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_041.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_042.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_043.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_044.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_045.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_046.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_047.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_048.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker2_non_cough_none_049.wav",
+    "speaker": "speaker2",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_000.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_001.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_002.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_003.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_004.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_005.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_006.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_007.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_008.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_009.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_010.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_011.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_012.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_013.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_014.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_015.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_016.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_017.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_018.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_019.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_020.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_021.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_022.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_023.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_024.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_025.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_026.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_027.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_028.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_029.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_030.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_031.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_032.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_033.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_034.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_035.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_036.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_037.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_038.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_039.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_040.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_041.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_042.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_043.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_044.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_045.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_dry_046.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wheeze_047.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_048.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_cough_wet_049.wav",
+    "speaker": "speaker3",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_000.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_001.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_002.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_003.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_004.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_005.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_006.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_007.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_008.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_009.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_010.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_011.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_012.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_013.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_014.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_015.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_016.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_017.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_018.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_019.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_020.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_021.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_022.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_023.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_024.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_025.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_026.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_027.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_028.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_029.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_030.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_031.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_032.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_033.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_034.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_035.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_036.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_037.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_038.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_039.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_040.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_041.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_042.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_043.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_044.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_045.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_046.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_047.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_048.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker3_non_cough_none_049.wav",
+    "speaker": "speaker3",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_000.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_001.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_002.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_003.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_004.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_005.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_006.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_007.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_008.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_009.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_010.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_011.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_012.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_013.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_014.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_015.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_016.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_017.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_018.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_019.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_020.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_021.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_022.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_023.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_024.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_025.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_026.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_027.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_028.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_029.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_030.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_031.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_032.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_033.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_034.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_035.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_036.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_037.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_038.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_039.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_040.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_041.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_042.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_043.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_044.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_045.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_046.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_dry_047.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wet_048.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_cough_wheeze_049.wav",
+    "speaker": "speaker4",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_000.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_001.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_002.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_003.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_004.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_005.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_006.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_007.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_008.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_009.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_010.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_011.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_012.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_013.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_014.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_015.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_016.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_017.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_018.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_019.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_020.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_021.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_022.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_023.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_024.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_025.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_026.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_027.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_028.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_029.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_030.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_031.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_032.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_033.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_034.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_035.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_036.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_037.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_038.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_039.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_040.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_041.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_042.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_043.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_044.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_045.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_046.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_047.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_048.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker4_non_cough_none_049.wav",
+    "speaker": "speaker4",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_000.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_001.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_002.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_003.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_004.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_005.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_006.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_007.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_008.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_009.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_010.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_011.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_012.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_013.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_014.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_015.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_016.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_017.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_018.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_019.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_020.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_021.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_022.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_023.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_024.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_025.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_026.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_027.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_028.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_029.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_030.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_031.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_032.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_033.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_034.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_035.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_036.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_037.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_038.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_039.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_040.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_041.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_042.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wheeze_043.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wheeze"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_044.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_045.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_046.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_dry_047.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "dry"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_048.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_cough_wet_049.wav",
+    "speaker": "speaker5",
+    "label": "cough",
+    "cough_type": "wet"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_000.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_001.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_002.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_003.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_004.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_005.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_006.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_007.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_008.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_009.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_010.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_011.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_012.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_013.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_014.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_015.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_016.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_017.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_018.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_019.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_020.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_021.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_022.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_023.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_024.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_025.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_026.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_027.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_028.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_029.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_030.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_031.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_032.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_033.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_034.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_035.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_036.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_037.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_038.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_039.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_040.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_041.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_042.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_043.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_044.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_045.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_046.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_047.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_048.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  },
+  {
+    "file": "C:\\Users\\yasav\\OneDrive\\Desktop (1)\\Desktop\\cough\\data\\generated\\speaker5_non_cough_none_049.wav",
+    "speaker": "speaker5",
+    "label": "non_cough",
+    "cough_type": "none"
+  }
+]
